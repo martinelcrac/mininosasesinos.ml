@@ -1,0 +1,46 @@
+h1{
+    color: #ffffff;
+    font: oblique bold 120% cursive;
+    text-shadow: -1px -1px 1px #aaa,
+             0px 4px 1px rgba(0,0,0,0.5),
+             4px 4px 5px rgba(0,0,0,0.7),
+             0px 0px 7px rgba(0,0,0,0.4);
+    font-size: 300%;
+    font-weight: bold;
+}
+sub{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    
+}
+h2{
+    color: snow;
+    font-family: "Segoe UI";
+   font-size: 150%;
+}
+p{
+    color: white;
+    font-family: "Segoe IU", sans-serif;
+    font-size: 110%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 24, 24);  
+    background-size:100%;
+    background-position-x: 0;
+    background-position-y: 0;
+    overflow: hidden;
+}
+
+object{
+    width: 970px;
+    height: 485px;
+    object-fit: contain;
+  position: relative;
+left:300px; top:-500px;
+}
